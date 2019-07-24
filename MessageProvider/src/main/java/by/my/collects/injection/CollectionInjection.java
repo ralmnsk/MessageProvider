@@ -12,6 +12,7 @@ public class CollectionInjection {
 	private Properties props;
 	private Set set;
 	private List list;
+	private List secondList;
 	
 	public static void main(String[] args) {
 		GenericXmlApplicationContext ctx =
